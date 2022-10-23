@@ -2,7 +2,7 @@
 
 Brazilian Senior Software Developer, passionate about technology, coding, devops, distributed systems and blockchain<br>
 I believe technology is a revolution.<br>
-If you want to work together please let me know: &nbsp; [![E-mail](https://user-images.githubusercontent.com/60484585/87349178-411eec80-c52c-11ea-9d7e-1808c0e9a8d2.png)](mailto:deboranunesfelix@gmail.com) [![LinkedIn](https://user-images.githubusercontent.com/60484585/87348076-8fcb8700-c52a-11ea-8299-4d71e142afb1.png)](https://www.linkedin.com/in/deboranunesfelix/)
+If you want to work together please let me know: &nbsp; [![E-mail](https://user-images.githubusercontent.com/60484585/87349178-411eec80-c52c-11ea-9d7e-1808c0e9a8d2.png)](mailto:caiohalcsik@gmail.com) [![LinkedIn](https://user-images.githubusercontent.com/60484585/87348076-8fcb8700-c52a-11ea-8299-4d71e142afb1.png)](https://www.linkedin.com/in/caio-felix/)
 
 <br>
 
