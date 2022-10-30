@@ -9,7 +9,7 @@ If you want to work together please let me know: &nbsp; [![E-mail](https://user-
 ### What am I doing on github?
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chalfel&?count_private=true&show_icons=true&theme=radical&line_height=33,5)](https://github.com/chalfel/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalfel&langs_count=8&?&theme=radical&hide=java,objective-c,starlark,ruby,html,css&card_width=300)](https://github.com/chalfel/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalfel&langs_count=8&?&theme=radical&hide=java,objective-c,starlark,ruby,html,javascript,css&card_width=300)](https://github.com/chalfel/github-readme-stats)
 
 ## &nbsp;
 
